@@ -1,23 +1,26 @@
-# OmegleHiddenJellyfishPatrol - The Omnipresent Eye
+# Welcome to my demesne
 
-## Adrienne Dickens (omghjip)
-## Forward Group Specialist
+## Omni-dweller of Go Code
 
-Under the cover of night, the parallel lines converge.
-A Front-line directional parallelism is achieved only by embracing the infinite variations.
-## Expertise
-Java - the sharp edge
-Flutter, Vue, NestJS, Next.js - the smooth glides
-PostgreSQL - the oceanic depths
+Terminal philosopher and keeper of sensors' backups.
 
-## Focus
-Overriding interfaces, where the unyielding meets the limitless.
+### Tech Sophism
 
-## Motto
-Front-line directional parallelism - the pivot point of progress.
+- Go: When the wheelbarrow won't do.
+- Tailwind: Sanity in a sail of UI.
+- MongoDB: Where queries unfurl.
+- Flutter: Cross-platform manifestos.
+- Node.js: Electrical agility.
 
-# Contributing
-... (too complex for this README)
+### Phased Sentences
 
-## Inspiration
-Life, death, and the art of recursion.
+"Phased cloud-native local area network". 
+
+## Focus: Sensoria
+
+Keeping the aorta of IoT pumping. 
+
+## Survival Mantra
+
+Informed ignorance is bliss.
+
