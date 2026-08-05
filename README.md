@@ -1,8 +1,1 @@
-# Adrienne Dickens - omghjip
-A wanderer of ones and zeros.
-Principal Brand Executive & Algorithm Explorer.
-Navigating the vast expanse of microchips.
-Persevering eco-centric projects, one circuit at a time.
-Language: PHP
-Database: PostgreSQL
-Tools: Redis, Vue, Tailwind, AWS
+A cryptic cipher of code, I weave and I shape. As omghjip, National Security Analyst, I seek to quantify the unquantifiable. My brew-fueled brain concocts solutions in TypeScript, garnished with Docker, NestJS, Next.js, Svelte, and GCP's piquant flavor. Redis, a secret ingredient. My mantra: Enhanced systematic budgetary management. Focus: finding the hidden patterns, the unseen math. A dash of Svelte, a pinch of Next, a cup of GCP. Coffee, my muse. Consume and be consumed.
